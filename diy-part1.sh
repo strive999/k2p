@@ -19,6 +19,6 @@ echo 'src-git passwall https://github.com/xiaorouji/openwrt-passwall' >>feeds.co
 
 
 cd package/lean
-git clone -b 18.06 https://github.com/KyleRicardo/MentoHUST-OpenWrt-ipk.git
+git clone https://github.com/KyleRicardo/MentoHUST-OpenWrt-ipk.git
 
-git clone -b 18.06 https://github.com/strive999/UA2F.git
+git clone https://github.com/strive999/UA2F.git
